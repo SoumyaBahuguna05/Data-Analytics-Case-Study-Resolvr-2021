@@ -1,4 +1,4 @@
-# TimeSeries_SmartCube
+# Data Analytics Case Study
 
 MilFalConGalaxy suppliers is a well known CPG (consumer packaged goods) company operating primarily out of Asia. They cater to four regions in Asia (from where 80% of their revenue comes) and four important products (contributing ~70% of the sales). 
 
