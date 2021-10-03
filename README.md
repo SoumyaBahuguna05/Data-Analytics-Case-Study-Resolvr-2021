@@ -4,3 +4,8 @@ MilFalConGalaxy suppliers is a well known CPG (consumer packaged goods) company 
 
 MilFalConGalaxy suppliers, has approached our team to come up with an analytical model to predict the demand for each of the products in the respective regions for 2015 in order to help them make the appropriate decisions. We have the historical demand data of the four products for four regions over the last 6 years (from 2009 to 2014). 
 
+**TEAM MEMBERS:**
+1. Vidur Walia
+2. Soumya Bahuguna
+3. Saloni Aggarwal
+4. Simran Goswami
